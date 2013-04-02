@@ -1,6 +1,6 @@
 # Pebble Paper Model
 
-I needed a [Pebble](http://getpebble.com) for my father's birthday but mine weren't shipped yet, so I had to come up with a [placeholder](https://twitter.com/thomas_jachmann/status/312902524980064257/photo/1):
+I needed a [Pebble](http://getpebble.com) for my father's birthday but mine weren't shipped yet, so I had to come up with a [placeholder](https://twitter.com/thomas_jachmann/status/312902524980064257):
 
 ![My Pebble](https://pbs.twimg.com/media/BFenMEtCcAANMm1.jpg:small)
 
