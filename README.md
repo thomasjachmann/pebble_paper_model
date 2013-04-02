@@ -15,7 +15,7 @@ What you need:
 
 What you do:
 
-1. print [pebble.pdf](https://github.com/thomasjachmann/pebble_paper_model/raw/master/pebble.pdf)
+1. print [pebble.pdf](https://github.com/thomasjachmann/pebble_paper_model/raw/master/pebble.pdf) (make sure to print at 100% size)
 1. cut
 1. glue
 1. win
