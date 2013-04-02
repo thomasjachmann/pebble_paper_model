@@ -35,4 +35,4 @@ Concerning attribution, the images for the model have been taken from:
 
 Thanks for those!
 
-The actual measurements are taken from pebbles public [specs](https://github.com/pebble/pebble-3d/raw/master/PebbleSolid-20130103.pdf).
+The actual measurements are taken from Pebble's public [specs](https://github.com/pebble/pebble-3d/raw/master/PebbleSolid-20130103.pdf).
