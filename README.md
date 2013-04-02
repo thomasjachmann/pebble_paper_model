@@ -15,7 +15,7 @@ What you need:
 
 What you do:
 
-1. print [pebble.pdf](https://raw.github.com/thomasjachmann/pebble_paper_model/master/pebble.pdf)
+1. print [pebble.pdf](https://github.com/thomasjachmann/pebble_paper_model/raw/master/pebble.pdf)
 1. cut
 1. glue
 1. win
@@ -34,3 +34,5 @@ Concerning attribution, the images for the model have been taken from:
 * http://johnwilker.com/2013/02/iwatch-review-pebble/ (back)
 
 Thanks for those!
+
+The actual measurements are taken from pebbles public [specs](https://github.com/pebble/pebble-3d/raw/master/PebbleSolid-20130103.pdf).
